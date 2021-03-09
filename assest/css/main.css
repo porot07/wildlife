@@ -1,0 +1,13 @@
+body {
+  color: #fff;
+}
+.container-content {
+  max-width: 1200px;
+}
+
+.survival {
+  background: url('../img/fox.png') no-repeat;
+  max-width: 1440px;
+  margin: 0 auto;
+  height: 100vh;
+}
